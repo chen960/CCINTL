@@ -42,3 +42,4 @@ CUDA_VISIBLE_DEVICES=0,1 python meta_qhard.py -d msmt17 --eps 0.6 --epochs 60  -
 ```
 
 实验结果在Tabel I ，II ， Onenote中。
+预训练模型https://www.aliyundrive.com/s/Mgy9tg2t5b7
